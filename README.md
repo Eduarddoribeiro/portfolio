@@ -33,10 +33,10 @@ O projeto está em evolução constante. Abaixo, o status das entregas:
 *   \[x\] Estruturação HTML das páginas (Home e Contato)
     
 *   \[x\] Estilização básica e Identidade Visual
+
+*   \[x\] Adição de interatividade com JavaScript (Menu, validação de form)
     
 *   \[ \] Implementação de Design Responsivo (Mobile First)
-    
-*   \[ \] Adição de interatividade com JavaScript (Menu, validação de form)
     
 *   \[ \] Integração com API (Futuro)
     
