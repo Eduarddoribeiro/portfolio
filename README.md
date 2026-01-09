@@ -23,3 +23,32 @@ A organização atual do projeto está dividida da seguinte forma:
 ├── index.html       # Página Principal (Home e Sobre)
 ├── contato.html     # Página de Contato e Redes Sociais
 └── README.md        # Documentação do projeto
+ ```
+
+🚧 Roadmap & Funcionalidades
+----------------------------
+
+O projeto está em evolução constante. Abaixo, o status das entregas:
+
+*   \[x\] Estruturação HTML das páginas (Home e Contato)
+    
+*   \[x\] Estilização básica e Identidade Visual
+    
+*   \[ \] Implementação de Design Responsivo (Mobile First)
+    
+*   \[ \] Adição de interatividade com JavaScript (Menu, validação de form)
+    
+*   \[ \] Integração com API (Futuro)
+    
+
+🚀 Como rodar o projeto localmente
+----------------------------------
+
+1.  git clone \[https://github.com/eduarddoribeiro/NOME-DO-SEU-REPO.git\](https://github.com/eduarddoribeiro/NOME-DO-SEU-REPO.git)
+    
+2.  cd NOME-DO-SEU-REPO
+    
+3.  Abra o arquivo index.html no seu navegador de preferência ou utilize o **Live Server** do VS Code.
+    
+
+Feito com 💻 e ☕ por [Eduardo Ribeiro](https://www.linkedin.com/in/eduardoribeirodefraga/).
